@@ -1,5 +1,5 @@
 #!/bin/bash
 
-ls -lt --full-time | head -n 11 | tail -n +2
+ls -lt | head
 
 
